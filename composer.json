@@ -1,0 +1,24 @@
+{
+    "name": "lenghua/helloword",
+    "description": "xh",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wangzhenghua",
+            "email": "lenghua@admin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "AB\\": "src/"
+    }
+},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
