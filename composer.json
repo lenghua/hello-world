@@ -2,6 +2,7 @@
     "name": "lenghua/helloword",
     "description": "xh",
     "type": "library",
+    "license":"GPL",
     "authors": [
         {
             "name": "wangzhenghua",
@@ -11,10 +12,10 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-    "psr-4": {
-        "AB\\": "src/"
-    }
-},
+        "psr-4": {
+            "AB\\": "src/"
+        }
+    },
     "repositories": {
         "packagist": {
             "type": "composer",
